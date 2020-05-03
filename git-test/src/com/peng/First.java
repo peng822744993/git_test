@@ -8,4 +8,9 @@ public class First {
         System.out.println("hello git4 ");
         System.out.println("hello git5 ");
     }
+    public void test(){
+        int i=0;
+        i+=10;
+        System.out.println(i);
+    }
 }
